@@ -1,2 +1,0 @@
-# xaosr
-xaosr.com website
