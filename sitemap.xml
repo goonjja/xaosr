@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://xaosr.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://xaosr.com/</loc>
+</url>
+<url>
+<loc>https://xaosr.com/main-page.html</loc>
+<lastmod>2021-10-31T12:53:09+01:00</lastmod>
+</url>
+<url>
+<loc>https://xaosr.com/o.html</loc>
+<lastmod>2021-10-31T12:52:19+01:00</lastmod>
+</url>
+<url>
+<loc>https://xaosr.com/s.html</loc>
+<lastmod>2021-10-31T12:52:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://xaosr.com/whats-up.html</loc>
+<lastmod>2021-10-31T12:52:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://xaosr.com/xaos-resonance.html</loc>
+<lastmod>2021-10-31T12:52:04+01:00</lastmod>
+</url>
+</urlset>

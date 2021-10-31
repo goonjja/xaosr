@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Xaos Resonance",
+    "description": "",
+    "home_page_url": "https://xaosr.com",
+    "feed_url": "https://xaosr.com/feed.json",
+    "user_comment": "",
+    "icon": "https://xaosr.com/media/website/XaosResonance-Logo-4.png",
+    "author": {
+        "name": "Xaos Resonance"
+    },
+    "items": [
+        {
+            "id": "https://xaosr.com/s.html",
+            "url": "https://xaosr.com/s.html",
+            "title": "S",
+            "summary": "S? ",
+            "content_html": "<p>S?</p>\n",
+            "author": {
+                "name": "Xaos Resonance"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T11:10:11+01:00",
+            "date_modified": "2021-10-31T12:52:25+01:00"
+        },
+        {
+            "id": "https://xaosr.com/o.html",
+            "url": "https://xaosr.com/o.html",
+            "title": "O",
+            "summary": "O? ",
+            "content_html": "<p>O?</p>\n",
+            "author": {
+                "name": "Xaos Resonance"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T11:09:32+01:00",
+            "date_modified": "2021-10-31T12:52:19+01:00"
+        },
+        {
+            "id": "https://xaosr.com/xaos-resonance.html",
+            "url": "https://xaosr.com/xaos-resonance.html",
+            "title": "X",
+            "summary": "Xaos - … ",
+            "content_html": "<p>Xaos - …</p>\n",
+            "author": {
+                "name": "Xaos Resonance"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T11:08:30+01:00",
+            "date_modified": "2021-10-31T12:52:04+01:00"
+        },
+        {
+            "id": "https://xaosr.com/whats-up.html",
+            "url": "https://xaosr.com/whats-up.html",
+            "title": "A",
+            "summary": "About project ",
+            "content_html": "<p>About project</p>\n",
+            "author": {
+                "name": "Xaos Resonance"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T10:50:55+01:00",
+            "date_modified": "2021-10-31T12:52:12+01:00"
+        }
+    ]
+}

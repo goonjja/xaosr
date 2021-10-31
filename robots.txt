@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xaosr.com/sitemap.xml

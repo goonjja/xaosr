@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Xaos Resonance</title>
+    <link href="https://xaosr.com/feed.xml" rel="self" />
+    <link href="https://xaosr.com" />
+    <updated>2021-10-31T12:52:25+01:00</updated>
+    <author>
+        <name>Xaos Resonance</name>
+    </author>
+    <id>https://xaosr.com</id>
+
+    <entry>
+        <title>S</title>
+        <author>
+            <name>Xaos Resonance</name>
+        </author>
+        <link href="https://xaosr.com/s.html"/>
+        <id>https://xaosr.com/s.html</id>
+
+        <updated>2021-10-31T12:52:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    S? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>S?</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>O</title>
+        <author>
+            <name>Xaos Resonance</name>
+        </author>
+        <link href="https://xaosr.com/o.html"/>
+        <id>https://xaosr.com/o.html</id>
+
+        <updated>2021-10-31T12:52:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    O? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>O?</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>X</title>
+        <author>
+            <name>Xaos Resonance</name>
+        </author>
+        <link href="https://xaosr.com/xaos-resonance.html"/>
+        <id>https://xaosr.com/xaos-resonance.html</id>
+
+        <updated>2021-10-31T12:52:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Xaos - … 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Xaos - …</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A</title>
+        <author>
+            <name>Xaos Resonance</name>
+        </author>
+        <link href="https://xaosr.com/whats-up.html"/>
+        <id>https://xaosr.com/whats-up.html</id>
+
+        <updated>2021-10-31T12:52:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    About project 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>About project</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
